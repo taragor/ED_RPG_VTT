@@ -76,11 +76,116 @@
                 "isVisible": true,
                 "modifiers": [],
                 "isTicked": false
+              },
+              "athletics": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.athletics",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
               }
-              
+            },
+            "espionage": {
+              "perception": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.perception",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "security": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.security",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "sleightofhand": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.sleightofhand",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "stealth": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.stealth",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "dosurvivaldge": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.survival",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              }
+            },
+            "vehicleskills" : {
+              "navigation": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.navigation",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "repair": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.repair",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "spaceshippiloting": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.spaceshippiloting",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "spaceshipweapons": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.spaceshipweapons",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "systems": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.systems",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "vehiclepiloting": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.vehiclepiloting",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "vehicleweapons": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.vehicleweapons",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              }
             }
-            
-            
           }
         }
       },
