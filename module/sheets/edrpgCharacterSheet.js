@@ -33,7 +33,7 @@ export default class EdrpgCharacterSheet extends ActorSheet {
 
     _onTestButtonClick(){
         console.log("ED:RPG | Blabla button clicked");
-        this.actor.update({"system.skills.personalcombat.dodge.score": 5});
+        this.actor.update({"system.skills.personalCombat.dodge.score": 5});
     }
 
     _onInlineEdit(event){
