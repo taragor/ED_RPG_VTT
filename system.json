@@ -30,8 +30,6 @@
     "packs": [
 
     ],
-  "languages": [
-    ],
     "socket": false,
     "initiative": "1d10",
     "gridDistance": 1,
