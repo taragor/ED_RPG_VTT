@@ -9,6 +9,20 @@ export default class EdrpgCharacterSheet extends ActorSheet {
         });
     }
 
+
+    getData(){
+        console.log("edrpg | edrpgCharacter | getData");
+        const data = super.getData();
+        if(data.data.system) {
+            data.system = data.data.system;
+        }
+
+        let actor = data.actor;
+
+        console.log("edrpg | edrpgCharacter | getData | Name is: " + data.actor.name);
+        return data;
+    }
+
     activateListeners(html) {
         super.activateListeners(html);
 
