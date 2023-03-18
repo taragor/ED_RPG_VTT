@@ -10,7 +10,7 @@ export default class edrpgCharacter extends Actor {
             data.system = data.data.system;
         }
 
-        console.log("edrpg | edrpgCharacter | getData | Name is: " + data.system.name);
+        console.log("edrpg | edrpgCharacter | getData | Name is: " + data.actor.name);
         return data;
     }
 }
