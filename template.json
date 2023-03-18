@@ -68,305 +68,309 @@
             },
             "skills": {
                 "personalCombat": {
-                "dodge": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.dodge",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "athletics": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.athletics",
-
-                "energyweapons": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.energyweapons",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "fighting": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.fighting",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "grenade": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.grenade",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "heavyweapons": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.heavyweapons",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "kineticweapons": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.kineticweapons",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "meleeweapons": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.meleeweapons",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "parry": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.parry",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                }
+                    "dodge": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.dodge",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "energyweapons": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.energyweapons",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "fighting": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.fighting",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "grenade": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.grenade",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "heavyweapons": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.heavyweapons",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "kineticweapons": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.kineticweapons",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "meleeweapons": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.meleeweapons",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "parry": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.parry",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    }
                 },
                 "espionage": {
-                "perception": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.perception",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "security": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.security",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "sleightofhand": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.sleightofhand",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "stealth": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.stealth",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "dosurvivaldge": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.survival",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                }
+                    "athletics": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.athletics",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "perception": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.perception",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "security": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.security",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "sleightofhand": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.sleightofhand",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "stealth": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.stealth",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "survival": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.survival",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    }
                 },
                 "vehicleskills" : {
-                "navigation": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.navigation",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "repair": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.repair",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "spaceshippiloting": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.spaceshippiloting",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "spaceshipweapons": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.spaceshipweapons",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "systems": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.systems",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "vehiclepiloting": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.vehiclepiloting",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                },
-                "vehicleweapons": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.vehicleweapons",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
-                }
+                    "navigation": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.navigation",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "repair": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.repair",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "spaceshippiloting": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.spaceshippiloting",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "spaceshipweapons": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.spaceshipweapons",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "systems": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.systems",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "vehiclepiloting": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.vehiclepiloting",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    },
+                    "vehicleweapons": {
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.vehicleweapons",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
+                    }
                 },
                 "intelligence": {
                     "computer": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.computer",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.computer",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     },
                     "cultureandlaw": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.cultureandlaw",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.cultureandlaw",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     },
                     "cyber": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.cyber",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.cyber",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     },
                     "medicine": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.medicine",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.medicine",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     },
                     "planetaryknowledge": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.planetaryknowledge",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.planetaryknowledge",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     },
                     "science": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.science",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.science",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     },
                     "tactics": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.tactics",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.tactics",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     },
                     "trading": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.trading",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.trading",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     }
                 },
                 "socialskills": {
                     "bargain": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.bargain",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.bargain",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     },
                     "bluff": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.bluff",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.bluff",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     },
                     "charm": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.charm",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.charm",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     },
                     "diplomacy": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.diplomacy",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.diplomacy",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     },
                     "gambling": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.gambling",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.gambling",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     },
                     "insight": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.insight",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.insight",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     },
                     "intimidate": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.intimidate",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.intimidate",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     },
                     "streetwise": {
-                    "score": 0,
-                    "label": "edrpg.Actor.Skills.streetwise",
-                    "isOpened": false,
-                    "isVisible": true,
-                    "modifiers": [],
-                    "isTicked": false
+                        "score": 0,
+                        "label": "edrpg.Actor.Skills.streetwise",
+                        "isOpened": false,
+                        "isVisible": true,
+                        "modifiers": [],
+                        "isTicked": false
                     }
                 }
             }
