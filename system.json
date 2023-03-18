@@ -1,0 +1,46 @@
+{
+    "id": "edrpg",
+    "title": "ED:RPG",
+    "description": "A FoundryVTT System for ED:RPG",
+    "version": "0.0.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "10",
+      "maximum": "10"
+    },
+    "authors": [
+      {
+        "name": "Daniel Echt",
+        "email": "taragor83@gmail.com"
+      },
+      {
+        "name": "Daniel Bender",
+        "email": ""
+      }
+    ],
+    "scripts": [
+
+    ],
+    "esmodules": [
+
+    ],
+    "styles": [
+
+    ],
+    "packs": [
+
+    ],
+  "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+      }
+    ],
+    "socket": false,
+    "initiative": "1d10",
+    "gridDistance": 1,
+    "gridUnits": "m",
+    "primaryTokenAttribute": "resources.health",
+    "secondaryTokenAttribute": "resources.shield"
+}
