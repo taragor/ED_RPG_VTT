@@ -80,6 +80,58 @@
               "athletics": {
                 "score": 0,
                 "label": "edrpg.Actor.Skills.athletics",
+
+              "energyweapons": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.energyweapons",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "fighting": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.fighting",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "grenade": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.grenade",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "heavyweapons": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.heavyweapons",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "kineticweapons": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.kineticweapons",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "meleeweapons": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.meleeweapons",
+                "isOpened": false,
+                "isVisible": true,
+                "modifiers": [],
+                "isTicked": false
+              },
+              "parry": {
+                "score": 0,
+                "label": "edrpg.Actor.Skills.parry",
                 "isOpened": false,
                 "isVisible": true,
                 "modifiers": [],
@@ -185,7 +237,139 @@
                 "modifiers": [],
                 "isTicked": false
               }
-            }
+            },
+            "intelligence": {
+                "computer": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.computer",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                },
+                "cultureandlaw": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.cultureandlaw",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                },
+                "cyber": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.cyber",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                },
+                "medicine": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.medicine",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                },
+                "planetaryknowledge": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.planetaryknowledge",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                },
+                "science": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.science",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                },
+                "tactics": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.tactics",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                },
+                "trading": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.trading",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                }
+              },
+              "socialskills": {
+                "bargain": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.bargain",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                },
+                "bluff": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.bluff",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                },
+                "charm": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.charm",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                },
+                "diplomacy": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.diplomacy",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                },
+                "gambling": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.gambling",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                },
+                "insight": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.insight",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                },
+                "intimidate": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.intimidate",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                },
+                "streetwise": {
+                  "score": 0,
+                  "label": "edrpg.Actor.Skills.streetwise",
+                  "isOpened": false,
+                  "isVisible": true,
+                  "modifiers": [],
+                  "isTicked": false
+                }
+              }
           }
         }
       },
