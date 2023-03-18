@@ -1,11 +1,13 @@
 {
     "Actor": {
-      "types": [
+        "types": [
         "character",
         "vehicle",
         "loot"
-      ],
-      "templates": {
+        ],
+        "templates": {
+            
+        },
         "character": {
             "deathStateApplied": false,
             "currency": {
@@ -385,78 +387,78 @@
                 "weight": "..."
             }
         },
-      "vehicle": {
-        "templates": [
-          "baseActor"
-        ],
-        "critWounds": [],
-        "config": {
-          "CritDescription": {},
-          "CritModDescription": {},
-          "CritGravity": {},
-          "CritGravityDefaultEffect": {},
-          "CritMod": {},
-          "CritSimple": {},
-          "CritComplex": {},
-          "CritDifficult": {},
-          "CritDeadly": {}
+        "vehicle": {
+            "templates": [
+            "baseActor"
+            ],
+            "critWounds": [],
+            "config": {
+            "CritDescription": {},
+            "CritModDescription": {},
+            "CritGravity": {},
+            "CritGravityDefaultEffect": {},
+            "CritMod": {},
+            "CritSimple": {},
+            "CritComplex": {},
+            "CritDifficult": {},
+            "CritDeadly": {}
+            },
+            "category": "Humanoid",
+            "threat": "",
+            "difficulty": "",
+            "bounty": 0,
+            "armorHead": 0,
+            "armorUpper": 0,
+            "armorLower": 0,
+            "armorTailWing": 0,
+            "regen": 0,
+            "resistances": "",
+            "immunities": "",
+            "susceptibilities": "",
+            "senses": "",
+            "height": "",
+            "weight": "",
+            "environment": "",
+            "intelligence": "",
+            "organization": "",
+            "common": "",
+            "commonSkillValue": "",
+            "monsterLore": "",
+            "monsterLoreSkillValue": "",
+            "customStat": false,
+            "focus1": {
+            "name": "",
+            "value": 0
+            },
+            "focus2": {
+            "name": "",
+            "value": 0
+            },
+            "focus3": {
+            "name": "",
+            "value": 0
+            },
+            "focus4": {
+            "name": "",
+            "value": 0
+            }
         },
-        "category": "Humanoid",
-        "threat": "",
-        "difficulty": "",
-        "bounty": 0,
-        "armorHead": 0,
-        "armorUpper": 0,
-        "armorLower": 0,
-        "armorTailWing": 0,
-        "regen": 0,
-        "resistances": "",
-        "immunities": "",
-        "susceptibilities": "",
-        "senses": "",
-        "height": "",
-        "weight": "",
-        "environment": "",
-        "intelligence": "",
-        "organization": "",
-        "common": "",
-        "commonSkillValue": "",
-        "monsterLore": "",
-        "monsterLoreSkillValue": "",
-        "customStat": false,
-        "focus1": {
-          "name": "",
-          "value": 0
-        },
-        "focus2": {
-          "name": "",
-          "value": 0
-        },
-        "focus3": {
-          "name": "",
-          "value": 0
-        },
-        "focus4": {
-          "name": "",
-          "value": 0
+        "loot": {
+            "templates": [
+            "baseActor"
+            ],
+            "description": "",
+            "maxWeight": 0,
+            "currency": {
+            "bizant": 0,
+            "ducat": 0,
+            "lintar": 0,
+            "floren": 0,
+            "crown": 0,
+            "oren": 0,
+            "falsecoin": 0
+            }
         }
-      },
-      "loot": {
-        "templates": [
-          "baseActor"
-        ],
-        "description": "",
-        "maxWeight": 0,
-        "currency": {
-          "bizant": 0,
-          "ducat": 0,
-          "lintar": 0,
-          "floren": 0,
-          "crown": 0,
-          "oren": 0,
-          "falsecoin": 0
-        }
-      }
     },
     "Item": {
       "types": [
@@ -813,5 +815,4 @@
         ]
       }
     }
-  }
 }
