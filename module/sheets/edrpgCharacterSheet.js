@@ -27,7 +27,7 @@ export default class EdrpgCharacterSheet extends ActorSheet {
         super.activateListeners(html);
 
         html.find(".inline_edit").change(this._onInlineEdit.bind(html));
-        html.find(".testbutton").on("click", this._onTestButtonClick);
+        html.find(".testbutton").on("click", this._onTestButtonClick.bind(this));
 
     }
 
