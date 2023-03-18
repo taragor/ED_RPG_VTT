@@ -18,6 +18,12 @@ export default class edrpgCharacter extends Actor {
         super.activateListeners(html);
 
         html.find(".inline_edit").change(this._onInlineEdit.bind(html));
+        html.find(".testbutton").on("click", this._onTestButtonClick);
+
+    }
+
+    _onTestButtonClick(){
+        console.log("ED:RPG | Blabla button clicked");
     }
 
     _onInlineEdit(event){
