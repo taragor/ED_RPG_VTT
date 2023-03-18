@@ -11,5 +11,6 @@ export default class edrpgCharacter extends Actor {
         }
 
         console.log("edrpg | edrpgCharacter | getData | Name is: " + data.system.name);
+        return data;
     }
 }
