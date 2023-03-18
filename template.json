@@ -373,7 +373,6 @@
                         "isTicked": false
                     }
                 }
-            }
             },
             "backgrounds": {
                 "background": []
@@ -385,8 +384,7 @@
                 "height": "...",
                 "weight": "..."
             }
-        }
-      },
+        },
       "vehicle": {
         "templates": [
           "baseActor"
@@ -816,3 +814,4 @@
       }
     }
   }
+}
