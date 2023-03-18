@@ -22,7 +22,7 @@
 
     ],
     "esmodules": [
-
+        "scripts/edrpg.js"
     ],
     "styles": [
 
