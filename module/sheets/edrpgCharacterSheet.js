@@ -28,7 +28,7 @@ export default class EdrpgCharacterSheet extends ActorSheet {
 
         html.find(".inline_edit").change(this._onInlineEdit.bind(html));
         html.find(".testbutton").on("click", this._onTestButtonClick.bind(this));
-
+        html.find(".testInput").change(this._onDodgeEdit.bind(this));
     }
 
     _onTestButtonClick(){
@@ -49,5 +49,10 @@ export default class EdrpgCharacterSheet extends ActorSheet {
         if (value == "true" || value == "checked") {
             value = false
         }
+    }
+
+    _onDodgeEdit(event){
+        let element = event.currentTarget();
+        this.actor.update({"system.skills.personalCombat.dodge.score": element.value});        
     }
 }
