@@ -1,0 +1,179 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+<link rel="stylesheet" href="../../styles/character-header.css">
+
+<div class="char-header container">
+
+    <div class="container">
+        
+        <div class="title row">
+            <div class="title col">
+                <img src="../img/charsheet_title_img.png" class="img-thumbnail" alt="..." style="height: auto; width: auto;">
+            </div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="container">
+
+        <!--- PICTURE | NAME |  RANK | WEIGHT  -->
+        
+        <div class="name-and-rank row">
+
+            <div class="col-md-auto">
+                <img src="../img/3DBenchy.png" class="img-thumbnail" alt="..." style="height: auto; width: auto;">
+            </div>
+
+            <div class="col-md-auto">
+
+                <div class="row">
+
+                    <div class="col input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="">NAME:</span>
+                        </div>
+                        <input class="form-control "type="text" id="char-name" name="char-name">
+                    </div>
+                    
+                    <br>
+
+                    <div class="col input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="">RANK:</span>
+                        </div>
+                        <input class="form-control "type="text" id="char-rank" name="char-rank">
+                    </div>
+
+                    <br>
+
+                    <div class="col input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="">RANK POINTS:</span>
+                        </div>
+                        <input class="form-control" type="number" id="char-rank-points" name="char-rank-points" style="width: 2em;">
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="container">
+
+        <!--- GENDER | AGE |  HEIGHT | WEIGHT  -->
+
+        <div class="general-information row">
+
+            <div class="col input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="">GENDER:</span>
+                </div>
+                <input class="form-control form-control" type="text" id="char-gender" name="char-gender">
+            </div>
+
+            <div class="col input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="">AGE:</span>
+                </div>
+                <input class="form-control" type="number" id="char-age" name="char-age">
+            </div>
+
+            <div class="col input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="">HEIGHT:</span>
+                </div>
+                <input class="form-control" type="number" id="char-height" name="char-height">
+            </div>
+
+            <div class="col input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="">WEIGHT:</span>
+                </div>
+                <input class="form-control" type="number" id="char-weight" name="char-weight">
+            </div>
+
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="char-header-3 container">
+
+        <!---  DODGE | TACTICS |  PARRY  -->
+
+        <div class="row">
+
+            <div class="col-md-auto">
+
+                <div class="row">
+                    <div class="char-skill-dodge col">
+                        <div class="col input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="">DODGE:</span>
+                            </div>
+                            <input class="form-control" type="number" id="char-skill-dodge" name="char-skill-dodge">
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="row">
+                    <div class="col input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="">TACTICS:</span>
+                        </div>
+                        <input class="form-control" type="number" id="char-skill-tactics" name="char-skill-tactics">
+                    </div>
+                </div>
+                    
+                <div class="row">
+                    <div class="col input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="">PARRY:</span>
+                        </div>
+                        <input class="form-control" type="number" id="char-skill-parry" name="char-skill-parry">
+                    </div>
+                </div>
+            </div>
+
+            <!---  Karma | Endurance |  Shield  -->
+
+            <div class="col">
+                
+                <div class="row">
+
+                    <div class="col input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="">KARMA:</span>
+                        </div>
+                        <input class="form-control" type="number" id="char-karma" name="char-karma">
+                        <input class="form-control" type="number" id="char-max-karma" name="char-max-karma">
+                    </div>
+
+                    <div class="col input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="">ENDURANCE:</span>
+                        </div>
+                        <input class="form-control" type="number" id="char-endurance" name="char-endurance">
+                        <input class="form-control" type="number" id="char-max-endurance" name="char-max-endurance">
+                    </div>
+
+                    <div class="col input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="">SHIELD:</span>
+                        </div>
+                        <input class="form-control" type="number" id="char-shield" name="char-shield">
+                        <input class="form-control" type="number" id="char-max-shield" name="char-max-shield">
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

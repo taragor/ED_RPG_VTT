@@ -25,7 +25,7 @@
         "scripts/edrpg.js"
     ],
     "styles": [
-
+      "styles/edrpg-styles.css"
     ],
     "packs": [
 
