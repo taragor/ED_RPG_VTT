@@ -3,7 +3,8 @@ import EdrpgCharacterSheet from "../module/sheets/edrpgCharacterSheet.js";
 
 async function preloadHandlebarsTemplates(){
     const templatePath = [
-        "systems/edrpg/templates/sheets/character-sheet.html"
+        "systems/edrpg/templates/sheets/character-sheet.html",
+        "systems/edrpg/templates/partials/char-header.html"
     ]
     return loadTemplates(templatePath);
 }
