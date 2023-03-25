@@ -52,6 +52,7 @@ export default class EdrpgCharacterSheet extends ActorSheet {
     }
 
     _onDodgeEdit(event){
+        event.preventDefault()
         let element = event.currentTarget;
         this.actor.update({"system.skills.personalCombat.dodge.score": element.value});        
     }
